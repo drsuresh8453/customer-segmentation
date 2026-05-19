@@ -5,6 +5,7 @@ Author: Suresh D R | AI Product Developer & Technology Mentor | DV Analytics
 Loads K-Means centroids from S3.
 Assigns segment to any new customer using centroid mapping.
 No retraining needed — instant assignment in milliseconds.
+This is for the DV Analytics Students to get the industry experience
 """
 
 import pandas as pd
